@@ -1,5 +1,5 @@
 ### Hi there, I`m glad to see you on my page 👋
-My name is Vladymyr Ivanchenko.
+My name is Vladymyr Ivanchenko. 
 
 ### My stack and tools:
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -15,6 +15,12 @@ My name is Vladymyr Ivanchenko.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+- 📫 How to reach me: 
+  [![Vladimir_Elys1um telegram](https://img.shields.io/badge/Telegram-%40Vladimir_Elys1um-blue?style=plastic&logo=telegram&link=https://t.me/Vladimir_Elys1um)](https://t.me/Vladimir_Elys1um)
+  [![vladymyrivanchenko3@gmail.com e-mail](https://img.shields.io/badge/Gmail-vladymyrivanchenko3@gmail.com-red?style=plastic&logo=gmail&link=mailto:vladymyrivanchenko3@gmail.com)](mailto:vladymyrivanchenko3@gmail.com)
+  [![theneonwhale github](https://img.shields.io/badge/GitHub-created-with-love-grey?style=plastic&logo=github&link=https://github.com/created-with-love)](https://github.com/created-with-love)
 
 ![Codewars](https://www.codewars.com/users/created-with-love/badges/micro)
 ![Profile views](https://gpvc.arturio.dev/created-with-love)
