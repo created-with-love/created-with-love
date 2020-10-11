@@ -16,4 +16,5 @@ My name is Vladymyr Ivanchenko.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+![Codewars](https://www.codewars.com/users/created-with-love/badges/micro)
 ![Profile views](https://gpvc.arturio.dev/created-with-love)
