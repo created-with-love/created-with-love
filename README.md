@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I`m glad to see you on my page 👋
 
 <!--
 **created-with-love/created-with-love** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 ![Profile views](https://gpvc.arturio.dev/[YOUR_PROFILE_USERNAME])
