@@ -17,10 +17,14 @@ My name is Vladymyr Ivanchenko.
 
 
 
+
+
 - 📫 How to reach me: 
   [![Vladimir_Elys1um telegram](https://img.shields.io/badge/Telegram-%40Vladimir_Elys1um-blue?style=plastic&logo=telegram&link=https://t.me/Vladimir_Elys1um)](https://t.me/Vladimir_Elys1um)
   [![vladymyrivanchenko3@gmail.com e-mail](https://img.shields.io/badge/Gmail-vladymyrivanchenko3@gmail.com-red?style=plastic&logo=gmail&link=mailto:vladymyrivanchenko3@gmail.com)](mailto:vladymyrivanchenko3@gmail.com)
-  [![theneonwhale github](https://img.shields.io/badge/GitHub-created-with-love-grey?style=plastic&logo=github&link=https://github.com/created-with-love)](https://github.com/created-with-love)
+  [![created-with-love github](https://img.shields.io/badge/GitHub-created-with-love-grey?style=plastic&logo=github&link=https://github.com/created-with-love)](https://github.com/created-with-love)
+
+
 
 ![Codewars](https://www.codewars.com/users/created-with-love/badges/micro)
 ![Profile views](https://gpvc.arturio.dev/created-with-love)
